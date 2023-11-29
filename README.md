@@ -1,5 +1,5 @@
 **React Todo App**
-Host Link : https://add-your-todolist.netlify.app/
+Host Link : https://add-todolistapp.netlify.app/
 A simple todo application built with React.
 
 **Description**
