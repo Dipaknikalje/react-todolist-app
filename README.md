@@ -7,7 +7,7 @@ This React Todo App allows you to manage your tasks by adding, completing,editin
 
 **Installation**
 Clone the repository to your local machine: git clone https://github.com/your-username/react-todolist-app.git
-Navigate to the project directory: cd react-todo-app
+Navigate to the project directory: cd folder-name
 Install dependencies: npm install
 
 **Usage**
